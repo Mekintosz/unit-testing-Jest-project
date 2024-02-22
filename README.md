@@ -1,1 +1,1 @@
-Unit Testing with Jest as part of Odin Project curiculum.
+Unit Testing with Jest as part of The Odin Project curriculum.
